@@ -1,4 +1,4 @@
-See working version here: charlehs.github.io/reactGame
+See working version [here](https://charlehs.github.io/reactGame)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
