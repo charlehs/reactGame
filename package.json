@@ -1,4 +1,5 @@
 {
+  "homepage": "http://charlehs.github.io/reactGame",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
